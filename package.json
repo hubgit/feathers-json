@@ -1,0 +1,12 @@
+{
+  "name": "feathers-json",
+  "version": "0.1.0",
+  "main": "src",
+  "license": "MIT",
+  "author": "Alf Eaton <eaton.alf@gmail.com>",
+  "dependencies": {
+    "fs-extra": "^5.0.0",
+    "glob": "^7.1.2",
+    "ulid": "^2.3.0"
+  }
+}
