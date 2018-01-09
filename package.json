@@ -2,6 +2,7 @@
   "name": "feathers-json",
   "version": "0.1.0",
   "main": "src",
+  "files": ["src"],
   "license": "MIT",
   "author": "Alf Eaton <eaton.alf@gmail.com>",
   "dependencies": {
