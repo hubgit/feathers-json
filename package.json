@@ -7,6 +7,7 @@
   ],
   "license": "MIT",
   "author": "Alf Eaton <eaton.alf@gmail.com>",
+  "repository": "hubgit/feathers-json",
   "dependencies": {
     "fs-extra": "^5.0.0",
     "glob": "^7.1.2",
